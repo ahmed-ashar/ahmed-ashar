@@ -11,7 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/mahmedashar" target="blank"><img src="https://img.shields.io/twitter/follow/mahmedashar?logo=twitter&style=for-the-badge" alt="mahmedashar" /></a> </p>
 
-
 - 🔭 I’m currently working on **E-Commerce Website**
 
 - 🌱 I’m currently learning **JavaScript**
@@ -35,8 +34,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecoolwithahmed&show_icons=true&locale=en&layout=compact&theme=darkhub" alt="codecoolwithahmed" /></p><br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecoolwithahmed&show_icons=true&locale=en&theme=darkhub" alt="codecoolwithahmed" /></p><br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecoolwithahmed&theme=darkhub" alt="codecoolwithahmed" /></p><br/>
+![](https://github-readme-stats.vercel.app/api?username=codecoolwithahmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codecoolwithahmed&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codecoolwithahmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
