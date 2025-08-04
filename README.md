@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=fd8b09&section=header&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fd8b09&section=header&reversal=false"/>
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Ashar</h1>
@@ -42,4 +42,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fd8b09&section=footer&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fd8b09&section=footer&reversal=false"/>
