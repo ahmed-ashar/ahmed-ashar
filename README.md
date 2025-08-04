@@ -1,22 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fd8b09&section=header&reversal=false"/>
 
 <h1 align="center">Hey there! 👋</h1>
-<!-- <h2 align="center">I'm <b style="color:#b7ab98">Muhammad Ahmed Ashar</b> — MERN Stack Developer 💻  </h2> -->
-<!-- <h3 align="center"><i>MERN Stack Developer passionate about building modern, scalable web applications.</i></h3> -->
-
-<!-- <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=26&letterSpacing=1px&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Hey%2C+I'm+Anubhav+!;++AI+%7C+ML+%7C+Blockchain+Developer;%F0%9F%94%A5+Building%2C+Learning%2C+Exploring++" alt="Typing SVG">
-  </a>
-</div> -->
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ashar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ashar" /> </p> -->
-
-<!-- <p style="display:flex"> -->
-
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=ahmed-ashar)
-[![committers.top badge](https://user-badge.committers.top/pakistan/ahmed-ashar.svg)](https://user-badge.committers.top/pakistan/ahmed-ashar)
-![GitHub followers](https://img.shields.io/github/followers/ahmed-ashar?label=Follow&style=social) -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed-ashar&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
@@ -152,8 +136,6 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
 </p>
 
-
-
 ---
 
 ## 🌱 `> Currently Learning & Future Goals`
@@ -166,58 +148,7 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> 
 <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="ShadCN UI" /> </p>
 
-<!-- ## 🌐 Connect with Me
-
-- 📬 **Email**: [hafizmahmedashar@gmail.com](mailto:hafizmahmedashar@gmail.com)
-- 💼 **Portfolio**: [https://rizonahmed.netlify.app](https://rizonahmed.netlify.app)
-- 💬 **Twitter**: [@mahmedashar](https://twitter.com/mahmedashar)
-- 👔 **LinkedIn**: [ahmedashar-webdev](https://linkedin.com/in/ahmedashar-webdev)
-- 📸 **Instagram**: [_ahm3d_ashar_](https://instagram.com/_ahm3d_ashar_)
-- 👤 **Facebook**: [ahmed.ashar.58](https://facebook.com/ahmed.ashar.58) -->
-
-<!-- </p> -->
-<img width="100%" loading="lazy" src="./assets/rainbow-superthin.gif" />
-
-<!-- <p align="center">
-  <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1" alt="Animated Image" />
-</p> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-ashar&theme=darkhub" alt="ahmed-ashar" /></a> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/mahmedashar" target="blank"><img src="https://img.shields.io/twitter/follow/mahmedashar?logo=twitter&style=for-the-badge" alt="mahmedashar" /></a> </p> -->
-
-<!-- - 🔭 I’m currently working on **E-Commerce Website** -->
-
-<!-- - 🌱 I’m currently learning **JavaScript** -->
-
-<!-- - 📫 How to reach me **hafizmahmedashar@gmail.com** -->
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mahmedashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmedashar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmedashar-webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedashar-webdev" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed.ashar.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.ashar.58" height="30" width="40" /></a>
-<a href="https://instagram.com/_ahm3d_ashar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ahm3d_ashar_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=ahmed-ashar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-
-<!-- ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-ashar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ashar&layout=compact&theme=tokyonight) -->
-
-<!-- ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-ashar&hide_border=false&include_all_commits=true&count_private=true&title_color=fd8b09&text_color=ffffff&icon_color=fd8b09&bg_color=0d1117) -->
-
-
-
+<img width="100%" loading="lazy" src="./assets/rainbow-superthin.gif" /><br />
 
 <p align="center">
   <img 
@@ -227,18 +158,6 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
   />
 </p>
 
-
-
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ashar&layout=compact&hide_border=false&title_color=fd8b09&text_color=ffffff&bg_color=0d1117) -->
-
-<!-- GitHub Streak Stats -->
-<p align="center">
- 
-</p>
-
-
-<!-- GitHub Stats -->
-<!-- GitHub Stats and Top Languages -->
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ahmed-ashar&hide_border=false&include_all_commits=true&count_private=true&title_color=fd8b09&text_color=ffffff&icon_color=fd8b09&bg_color=0d1117" 
@@ -261,18 +180,7 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
     height="200"
   />
 </p>
-<!-- GitHub Streak and Activity Graph -->
-<p align="center">
- 
-</p>
 
-
-<p align="center">
- 
-</p>
-
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ashar&theme=dark&hide_border=false)<br/> -->
-
-
+<img width="100%" loading="lazy" src="./assets/rainbow-superthin.gif" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fd8b09&section=footer&reversal=false"/>
