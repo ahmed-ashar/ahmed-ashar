@@ -233,37 +233,42 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ashar&hide_border=false&background=0d1117&currStreakLabel=fd8b09&fire=fd8b09&ring=fd8b09&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" 
-    alt="GitHub Streak"
-    width="500"
-  />
+ 
 </p>
 
+
 <!-- GitHub Stats -->
+<!-- GitHub Stats and Top Languages -->
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ahmed-ashar&hide_border=false&include_all_commits=true&count_private=true&title_color=fd8b09&text_color=ffffff&icon_color=fd8b09&bg_color=0d1117" 
     alt="Ahmed's GitHub Stats"
-    width="500"
+    height="200"
   />
-</p>
-
-<!-- GitHub Contributions Calendar -->
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-ashar&bg_color=0d1117&color=ffffff&line=fd8b09&point=ffffff&area=true&hide_border=false" 
-    alt="GitHub Contribution Graph"
-    width="500"
-  />
-</p>
-
-<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ashar&layout=compact&hide_border=false&title_color=fd8b09&text_color=ffffff&bg_color=0d1117" 
     alt="Top Languages"
-    width="500"
-/>
+    height="200"
+  />
+   <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ashar&hide_border=false&background=0d1117&currStreakLabel=fd8b09&fire=fd8b09&ring=fd8b09&currStreakNum=fd8b09&sideLabels=ffffff&dates=ffffff" 
+    alt="GitHub Streak"
+    height="200"
+  />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-ashar&bg_color=0d1117&color=ffffff&line=fd8b09&point=ffffff&area=true&hide_border=false" 
+    alt="GitHub Contribution Graph"
+    height="200"
+  />
+</p>
+<!-- GitHub Streak and Activity Graph -->
+<p align="center">
+ 
+</p>
+
+
+<p align="center">
+ 
 </p>
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ashar&theme=dark&hide_border=false)<br/> -->
