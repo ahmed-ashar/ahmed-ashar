@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=fd8b09&section=header&reversal=false"/>
+
 
 <h1 align="center">Hi 👋, I'm Ahmed Ashar</h1>
 <h3 align="center">Building Interactive and Responsive Websites That Delight Users</h3>
@@ -37,3 +39,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ahmed-ashar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ashar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ashar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fd8b09&section=footer&reversal=false"/>
