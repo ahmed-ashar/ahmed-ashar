@@ -219,13 +219,7 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmed-ashar&theme=onedark&title=Stars,Followers,Commit,Issues,PullRequest,Repositories&no-frame=true&column=6&title_color=fd8b09)](https://github.com/ahmed-ashar)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ashar&layout=compact&hide_border=false&title_color=fd8b09&text_color=ffffff&bg_color=0d1117" 
-    alt="Top Languages"
-    width="500"
-/>
-</p>
+
 
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ashar&layout=compact&hide_border=false&title_color=fd8b09&text_color=ffffff&bg_color=0d1117) -->
@@ -257,7 +251,13 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
   />
 </p>
 
-
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ashar&layout=compact&hide_border=false&title_color=fd8b09&text_color=ffffff&bg_color=0d1117" 
+    alt="Top Languages"
+    width="500"
+/>
+</p>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ashar&theme=dark&hide_border=false)<br/> -->
 
 
