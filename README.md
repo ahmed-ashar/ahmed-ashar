@@ -83,7 +83,11 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
   <a href="https://ahmed-ashar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="mailto:hafizmahmedashar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
 
 ---
 
