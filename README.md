@@ -217,8 +217,15 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
 <!-- ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-ashar&hide_border=false&include_all_commits=true&count_private=true&title_color=fd8b09&text_color=ffffff&icon_color=fd8b09&bg_color=0d1117) -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmed-ashar&theme=onedark&title=Stars,Followers,Commit,Issues,PullRequest,Repositories&no-frame=true&column=6&title_color=fd8b09)](https://github.com/ahmed-ashar)
 
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=ahmed-ashar&theme=onedark&title=Stars,Followers,Commit,Issues,PullRequest,Repositories&no-frame=true&column=6&title_color=fd8b09" 
+    alt="GitHub Streak"
+    width="700"
+  />
+</p>
 
 
 
@@ -258,9 +265,9 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
     width="500"
 />
 </p>
+
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ashar&theme=dark&hide_border=false)<br/> -->
 
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ashar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fd8b09&section=footer&reversal=false"/>
