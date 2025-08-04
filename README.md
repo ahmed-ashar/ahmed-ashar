@@ -181,6 +181,12 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
   />
 </p>
 
-<img width="100%" loading="lazy" src="./assets/rainbow-superthin.gif" />
+<img width="100%" loading="lazy" src="./assets/rainbow-superthin.gif" /><br />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fd8b09&section=footer&reversal=false"/>
+<!-- 📝 Quote Section -->
+<p align="center" style="font-size: 18px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
+  🌟 "Success is not in what you have, but who you are." – Bo Bennett
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fd8b09&section=footer&reversal=false"/>
+
