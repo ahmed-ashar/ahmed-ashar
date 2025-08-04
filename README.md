@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fd8b09&section=header&reversal=false"/>
 
-<h1 align="center">Hey there! 👋</h1>
+# `> Hey there! 👋`
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed-ashar&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/followers/ahmed-ashar?label=Follow&style=social" alt="GitHub Followers" />
 </p>
 
-## 👨‍💻 About Me
+## 👨‍💻 `> About Me`
 
 Hey there! I'm `Muhammad Ahmed Ashar`, a curious mind and creative soul from Pakistan 🇵🇰 — passionate about building beautiful, functional, and intuitive digital experiences on the web.
 
@@ -18,7 +18,7 @@ As a `MERN Stack Developer`, I specialize in crafting responsive UIs, dynamic us
 
 ---
 
-## 🧠 `What Drives Me?`
+## 🧠 `> What Drives Me?`
 
 I’m deeply fascinated by how design and code come together to shape user experiences. I don’t just build websites — I build interfaces that tell stories, solve problems, and make people smile. I thrive on clean code, creative layouts, and those "Aha!" moments when things just click.
 
@@ -68,26 +68,27 @@ Whether it's exploring serverless functions, learning about accessibility, or ex
 Feel free to reach out, collaborate, or just say hello! I'm always open to discussing new ideas, interesting projects, or even the latest memes. 😄
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmedashar-webdev" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-ashar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/_ahm3d_ashar_/" target="_blank">
+  <a href="https://www.instagram.com/ahm3d_ashar/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/ahmed.ashar.58" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://wa.me/923002722618" target="_blank">
+  <a href="https://wa.me/923368966346" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://rizonahmed.netlify.app" target="_blank">
+  <a href="https://ahmed-ashar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-# 🚀 Languages, Tools & 🔭 Learning Goals 
+# 🚀 Languages, Tools & 🔭 Learning Goals
+
 ## 🛠️ `> Languages & Tools I Work With`
 
 <p align="left">
@@ -189,4 +190,3 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fd8b09&section=footer&reversal=false"/>
-
