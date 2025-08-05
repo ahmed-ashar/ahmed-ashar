@@ -91,7 +91,7 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
 
 ---
 
-# 🚀 Languages, Tools & 🔭 Learning Goals
+# 🚀 `> Languages, Tools & 🔭 Learning Goals`
 
 ## 🛠️ `> Languages & Tools I Work With`
 
