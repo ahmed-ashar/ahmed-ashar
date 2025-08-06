@@ -190,7 +190,7 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
 
 <!-- 📝 Quote Section -->
 <p align="center" style="font-size: 18px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
-  🌟 "Success is not final, failure is not fatal: it is the courage to continue that counts." – Winston Churchill
+  🌟 "Do not wait to strike till the iron is hot; but make it hot by striking." – William Butler Yeats
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fd8b09&section=footer&reversal=false"/>
