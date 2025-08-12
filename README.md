@@ -190,11 +190,7 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
 
 <!-- 📝 Quote Section -->
 <p align="center" style="font-size: 18px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
-<<<<<<< HEAD
   🌟 "Do what you can, with what you have, where you are." – Theodore Roosevelt
-=======
-  🌟 "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill
->>>>>>> 27b7158c698ec6fa3b2ff2474efd7839233247d8
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fd8b09&section=footer&reversal=false"/>
