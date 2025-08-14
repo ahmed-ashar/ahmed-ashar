@@ -190,7 +190,7 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
 
 <!-- 📝 Quote Section -->
 <p align="center" style="font-size: 18px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
-  🌟 “Don’t watch the clock; do what it does. Keep going.” — Sam Levenson
+  🌟 "Do what you can, with what you have, where you are." – Theodore Roosevelt
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fd8b09&section=footer&reversal=false"/>
