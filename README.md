@@ -190,7 +190,7 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
 
 <!-- 📝 Quote Section -->
 <p align="center" style="font-size: 18px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
-  🌟 "Small steps every day lead to big changes over time."
+  🌟 "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart."
 
 
 </p>
