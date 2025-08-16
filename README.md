@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fd8b09&section=header&reversal=false"/>
 
 <!-- 📝 Quote Section -->
-<p align="center" style="font-size: 18px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
+<p align="center" style="font-size: 22px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
   🌟 "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart."
 
 
@@ -196,10 +196,10 @@ Feel free to reach out, collaborate, or just say hello! I'm always open to discu
 <img width="100%" loading="lazy" src="./assets/rainbow-superthin.gif" /><br />
 
 <!-- 📝 Quote Section -->
-<p align="center" style="font-size: 18px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
+<!-- <p align="center" style="font-size: 18px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
   🌟 "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart."
 
 
-</p>
+</p> -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fd8b09&section=footer&reversal=false"/>
