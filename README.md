@@ -2,7 +2,8 @@
 
 <!-- 📝 Quote Section -->
 <p align="center" style="font-size: 22px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
-  🌟 "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart."
+  🌟 "Success is the sum of small efforts, repeated day in and day out."
+
 
 
 </p>
