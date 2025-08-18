@@ -2,10 +2,7 @@
 
 <!-- 📝 Quote Section -->
 <p align="center" style="font-size: 22px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
-  🌟 "Success is the sum of small efforts, repeated day in and day out."
-
-
-
+  🌟 "Do something today that your future self will thank you for." ✅
 </p>
 
 # `> Hey there! 👋`
