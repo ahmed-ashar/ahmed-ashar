@@ -2,7 +2,8 @@
 
 <!-- 📝 Quote Section -->
 <p align="center" style="font-size: 22px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
-  🌟 "Don’t let yesterday take up too much of today." – Will Rogers
+  🌟 "Do what you can, with what you have, where you are." – Theodore Roosevelt
+
 
 
 
