@@ -2,7 +2,9 @@
 
 <!-- 📝 Quote Section -->
 <p align="center" style="font-size: 22px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
-  🌟 "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill
+  🌟 "Do what you can, with what you have, where you are." – Theodore Roosevelt
+
+
 
 
 
