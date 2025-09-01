@@ -2,7 +2,8 @@
 
 <!-- 📝 Quote Section -->
 <p align="center" style="font-size: 22px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
-  🌟 "Happiness depends upon ourselves." – Aristotle
+  🌟 "Small steps in the right direction can turn out to be the biggest step of your life." 🌿
+
 
 
 
