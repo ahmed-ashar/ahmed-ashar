@@ -2,7 +2,7 @@
 
 <!-- 📝 Quote Section -->
 <p align="center" style="font-size: 22px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
-  🌟 "Don’t count the days, make the days count." — Muhammad Ali
+  🌟 "Happiness depends upon ourselves." – Aristotle
 
 
 
