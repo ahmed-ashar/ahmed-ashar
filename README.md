@@ -3,7 +3,6 @@
 <!-- 📝 Quote Section -->
 <p align="center" style="font-size: 22px; color: #ffffff; background-color: #0d1117; padding: 20px; margin: 0;">
   🌟 "Do what you can, with what you have, where you are." – Theodore Roosevelt
-
 </p>
 
 # `> Hey there! 👋`
